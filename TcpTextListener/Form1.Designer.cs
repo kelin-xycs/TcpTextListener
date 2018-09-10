@@ -108,7 +108,7 @@
             this.btnTest.Name = "btnTest";
             this.btnTest.Size = new System.Drawing.Size(340, 23);
             this.btnTest.TabIndex = 7;
-            this.btnTest.Text = "测测看  点击这个按钮会发送一个 Http 请求 给自己";
+            this.btnTest.Text = "测测看  点击这个按钮会发送 一条消息 给自己";
             this.btnTest.UseVisualStyleBackColor = true;
             this.btnTest.Click += new System.EventHandler(this.btnTest_Click);
             // 
