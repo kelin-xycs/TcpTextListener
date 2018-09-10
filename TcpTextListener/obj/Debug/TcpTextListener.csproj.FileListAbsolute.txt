@@ -1,0 +1,9 @@
+C:\新建文件夹\Projects 4\TcpTextListener\TcpTextListener\bin\Debug\TcpTextListener.exe.config
+C:\新建文件夹\Projects 4\TcpTextListener\TcpTextListener\bin\Debug\TcpTextListener.exe
+C:\新建文件夹\Projects 4\TcpTextListener\TcpTextListener\bin\Debug\TcpTextListener.pdb
+C:\新建文件夹\Projects 4\TcpTextListener\TcpTextListener\obj\Debug\TcpTextListener.csprojResolveAssemblyReference.cache
+C:\新建文件夹\Projects 4\TcpTextListener\TcpTextListener\obj\Debug\TcpTextListener.Form1.resources
+C:\新建文件夹\Projects 4\TcpTextListener\TcpTextListener\obj\Debug\TcpTextListener.Properties.Resources.resources
+C:\新建文件夹\Projects 4\TcpTextListener\TcpTextListener\obj\Debug\TcpTextListener.csproj.GenerateResource.Cache
+C:\新建文件夹\Projects 4\TcpTextListener\TcpTextListener\obj\Debug\TcpTextListener.exe
+C:\新建文件夹\Projects 4\TcpTextListener\TcpTextListener\obj\Debug\TcpTextListener.pdb
